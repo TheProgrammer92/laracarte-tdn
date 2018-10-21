@@ -8,7 +8,8 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 
 
-    <title>Document</title>
+
+    <title>{{ page_title($title) ?? ''}} </title>
 
     <style>
 
